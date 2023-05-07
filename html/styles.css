@@ -44,14 +44,12 @@
     top: 0;
     border-right: 3px solid #07d111;
     border-top: 3px solid #07d111;
-    -webkit-transform: translate(-100%, 50%);
   }
   .ul__nav a:after {
     left: 0;
     bottom: 0;
     border-left: 3px solid #07d111;
     border-bottom: 3px solid #07d111;
-    -webkit-transform: translate(100%, -50%);
   }
   .ul__nav a:hover,
   .ul__nav .home a{
